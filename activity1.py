@@ -1,0 +1,5 @@
+print("This is my first python lesson")
+print("My name is Ayan")
+print("My favourite color is black")
+print("Today is a sunny day")
+print("I like swimming")
